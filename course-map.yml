@@ -1,0 +1,41 @@
+course:
+  title: "8042 AE圖像特效動畫基礎A班第01期"
+  playlist_id: "PLM0Fy4A8jLFA"
+  playlist_url: "https://www.youtube.com/playlist?list=PLM0Fy4A8jLFA"
+  license: "MIT for original repository content"
+
+classes:
+  - class: "Class01"
+    date: "2026-04-18"
+    folder: "classes/2026-04-18-Class01"
+    videos: []
+    note: "當日未開直播，無完整錄影"
+  - class: "Class02"
+    date: "2026-04-25"
+    folder: "classes/2026-04-25-Class02"
+    videos: ["29lG0NDNFMs"]
+  - class: "Class03"
+    date: "2026-05-09"
+    folder: "classes/2026-05-09-Class03"
+    videos: ["7kBERVJ9_kM"]
+  - class: "Class04"
+    date: "2026-05-16"
+    folder: "classes/2026-05-16-Class04"
+    videos: ["kNvNzohMu4Y", "_HV_9bshpvk"]
+  - class: "Class05"
+    date: "2026-05-23"
+    folder: "classes/2026-05-23-Class05"
+    videos: ["4cvvlCR2EKg"]
+  - class: "Class06"
+    date: "2026-05-30"
+    folder: "classes/2026-05-30-Class06"
+    videos: ["xCtS1qukfcM"]
+  - class: "Class07"
+    date: "2026-06-06"
+    folder: "classes/2026-06-06-Class07"
+    videos: ["CDC5p_lSVFU"]
+  - class: "Class08"
+    date: "2026-06-13"
+    folder: "classes/2026-06-13-Class08"
+    videos: ["zyp1I8KUz1U"]
+

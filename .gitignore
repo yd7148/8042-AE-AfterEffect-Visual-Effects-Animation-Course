@@ -1,0 +1,10 @@
+*.mp4
+*.avi
+*.exe
+*.zip
+~$*
+**/Adobe After Effects Auto-Save/
+**/*auto-save*.aep
+Thumbs.db
+.DS_Store
+
