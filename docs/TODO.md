@@ -12,9 +12,10 @@
 
 ## 最終驗證
 
-- [ ] 執行本機驗證並保存 PASS 結果
-- [ ] 推送 GitHub，確認公開頁、Mermaid、圖片與下載連結
-- [ ] 封裝並驗證可重複執行的 Skill／Agent workflow
+- [x] 執行本機驗證並保存 PASS 結果
+- [x] 推送 GitHub，確認公開頁、圖片、AEP 下載、Issues 與遠端 SHA
+- [x] 封裝並驗證可重複執行的 Skill／Agent workflow
+- [ ] GitHub 已辨識 Mermaid render target；受本機瀏覽器 DNS／動態渲染限制，尚未取得最終 SVG 畫面證據
 - [ ] 在 After Effects 實際開啟每份 AEP，收集缺字型／素材／外掛報告
 
 ## 已採用的公開設定
