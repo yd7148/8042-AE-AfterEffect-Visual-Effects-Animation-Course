@@ -1,0 +1,125 @@
+{
+  "class": "2026-04-18-Class01",
+  "source_markdown": "Markdown/2026-04-18-Class01/2026-04-18-1Class01.md",
+  "source_word": "2026-04-18-Class01/2026-04-18-1Class01.docx",
+  "source_line_start": 15,
+  "source_line_end": 65,
+  "images": [
+    {
+      "source_word": "2026-04-18-Class01/2026-04-18-1Class01.docx",
+      "source_word_paragraph": 9,
+      "source_markdown": "Markdown/2026-04-18-Class01/2026-04-18-1Class01.md",
+      "source_line": 31,
+      "source_image": "Markdown/2026-04-18-Class01/2026-04-18-1Class01_assets/image1.png",
+      "repo_image": "classes/2026-04-18-Class01/assets/source-image1.png",
+      "sha256": "6a5946d6a692dd47dc296d8cdce2200b5d5e3ee98b5138065437bf8c29ea5cf6",
+      "bytes": 28216
+    },
+    {
+      "source_word": "2026-04-18-Class01/2026-04-18-1Class01.docx",
+      "source_word_paragraph": 11,
+      "source_markdown": "Markdown/2026-04-18-Class01/2026-04-18-1Class01.md",
+      "source_line": 35,
+      "source_image": "Markdown/2026-04-18-Class01/2026-04-18-1Class01_assets/image2.png",
+      "repo_image": "classes/2026-04-18-Class01/assets/source-image2.png",
+      "sha256": "161b159cb441dd47b625dbbd08227f0e85371447ce9b06b7262b3aa50e170cc7",
+      "bytes": 42451
+    },
+    {
+      "source_word": "2026-04-18-Class01/2026-04-18-1Class01.docx",
+      "source_word_paragraph": 13,
+      "source_markdown": "Markdown/2026-04-18-Class01/2026-04-18-1Class01.md",
+      "source_line": 37,
+      "source_image": "Markdown/2026-04-18-Class01/2026-04-18-1Class01_assets/image3.png",
+      "repo_image": "classes/2026-04-18-Class01/assets/source-image3.png",
+      "sha256": "558071db899dfeca552ff702e7fbc9db89a8fc54415369da1432dac451e53ad1",
+      "bytes": 12945
+    },
+    {
+      "source_word": "2026-04-18-Class01/2026-04-18-1Class01.docx",
+      "source_word_paragraph": 15,
+      "source_markdown": "Markdown/2026-04-18-Class01/2026-04-18-1Class01.md",
+      "source_line": 41,
+      "source_image": "Markdown/2026-04-18-Class01/2026-04-18-1Class01_assets/image4.png",
+      "repo_image": "classes/2026-04-18-Class01/assets/source-image4.png",
+      "sha256": "a9134e1f6eaa8708066b29119cd973af655eb733953933109e80c87edea2c038",
+      "bytes": 40249
+    },
+    {
+      "source_word": "2026-04-18-Class01/2026-04-18-1Class01.docx",
+      "source_word_paragraph": 16,
+      "source_markdown": "Markdown/2026-04-18-Class01/2026-04-18-1Class01.md",
+      "source_line": 43,
+      "source_image": "Markdown/2026-04-18-Class01/2026-04-18-1Class01_assets/image5.png",
+      "repo_image": "classes/2026-04-18-Class01/assets/source-image5.png",
+      "sha256": "5247f8d30b315739fa2ce17d329e226be57d331a8d6927b36a2bdb9f6aac5deb",
+      "bytes": 13000
+    },
+    {
+      "source_word": "2026-04-18-Class01/2026-04-18-1Class01.docx",
+      "source_word_paragraph": 18,
+      "source_markdown": "Markdown/2026-04-18-Class01/2026-04-18-1Class01.md",
+      "source_line": 45,
+      "source_image": "Markdown/2026-04-18-Class01/2026-04-18-1Class01_assets/image6.png",
+      "repo_image": "classes/2026-04-18-Class01/assets/source-image6.png",
+      "sha256": "6d7d3b0e2b9a2aa545c7b88ef55c21191c554d9be9a4cefc5ed76abbfa49ba3b",
+      "bytes": 12055
+    },
+    {
+      "source_word": "2026-04-18-Class01/2026-04-18-1Class01.docx",
+      "source_word_paragraph": 19,
+      "source_markdown": "Markdown/2026-04-18-Class01/2026-04-18-1Class01.md",
+      "source_line": 47,
+      "source_image": "Markdown/2026-04-18-Class01/2026-04-18-1Class01_assets/image7.png",
+      "repo_image": "classes/2026-04-18-Class01/assets/source-image7.png",
+      "sha256": "277c08ce7b05842679f98ed97ea4f1be96096ef8a6cd68c8fb0c6680bd5f0279",
+      "bytes": 140493
+    },
+    {
+      "source_word": "2026-04-18-Class01/2026-04-18-1Class01.docx",
+      "source_word_paragraph": 21,
+      "source_markdown": "Markdown/2026-04-18-Class01/2026-04-18-1Class01.md",
+      "source_line": 49,
+      "source_image": "Markdown/2026-04-18-Class01/2026-04-18-1Class01_assets/image8.png",
+      "repo_image": "classes/2026-04-18-Class01/assets/source-image8.png",
+      "sha256": "0f45022f46d09432de098e17574afee21cd62143773d94de4366bb1aaa3a5425",
+      "bytes": 10285
+    },
+    {
+      "source_word": "2026-04-18-Class01/2026-04-18-1Class01.docx",
+      "source_word_paragraph": 21,
+      "source_markdown": "Markdown/2026-04-18-Class01/2026-04-18-1Class01.md",
+      "source_line": 51,
+      "source_image": "Markdown/2026-04-18-Class01/2026-04-18-1Class01_assets/image9.png",
+      "repo_image": "classes/2026-04-18-Class01/assets/source-image9.png",
+      "sha256": "0e727d584c9ad6e442c325dd8ff060cde6e223b136118fa2074e39bcde4efe20",
+      "bytes": 14987
+    },
+    {
+      "source_word": "2026-04-18-Class01/2026-04-18-1Class01.docx",
+      "source_word_paragraph": 23,
+      "source_markdown": "Markdown/2026-04-18-Class01/2026-04-18-1Class01.md",
+      "source_line": 53,
+      "source_image": "Markdown/2026-04-18-Class01/2026-04-18-1Class01_assets/image10.png",
+      "repo_image": "classes/2026-04-18-Class01/assets/source-image10.png",
+      "sha256": "e86fb9e3dcf07209190d28279a2a86c8c923a8bd6dba458ddafb411a5b8fd683",
+      "bytes": 7124
+    },
+    {
+      "source_word": "2026-04-18-Class01/2026-04-18-1Class01.docx",
+      "source_word_paragraph": 25,
+      "source_markdown": "Markdown/2026-04-18-Class01/2026-04-18-1Class01.md",
+      "source_line": 57,
+      "source_image": "Markdown/2026-04-18-Class01/2026-04-18-1Class01_assets/image11.png",
+      "repo_image": "classes/2026-04-18-Class01/assets/source-image11.png",
+      "sha256": "58b1afb750a48dc1064e2900b2b207a626e1e28f31e8d7073ccacbb754803e0a",
+      "bytes": 27879
+    }
+  ],
+  "redactions": [
+    {
+      "source_line": 17,
+      "reason": "teacher-name-publication-disabled"
+    }
+  ]
+}

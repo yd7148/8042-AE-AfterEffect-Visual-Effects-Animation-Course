@@ -1,0 +1,20 @@
+[
+  {
+    "class": "2026-06-06-Class07",
+    "source": "2026-06-06-Class07/0606_adidas_glossy_.aep",
+    "repo_path": "classes/2026-06-06-Class07/aep/0606_adidas_glossy_.aep",
+    "bytes": 1111228,
+    "sha256": "32d34148f9a78f48e15c53ddea3889ad12b959331998e9ded1a30a7727faf976",
+    "kind": "reference-or-final",
+    "dependency_status": "not_embedded-audit-required"
+  },
+  {
+    "class": "2026-06-06-Class07",
+    "source": "2026-06-06-Class07/20260606-2-下午.aep",
+    "repo_path": "classes/2026-06-06-Class07/aep/20260606-2-下午.aep",
+    "bytes": 420199,
+    "sha256": "bf078e1bd3c7f0e7d5e54ab94ce1c796d161612b24ea0a94d74d7e96eb60658a",
+    "kind": "practice-process",
+    "dependency_status": "not_embedded-audit-required"
+  }
+]

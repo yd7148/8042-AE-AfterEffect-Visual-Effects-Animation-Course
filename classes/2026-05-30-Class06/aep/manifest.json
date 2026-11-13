@@ -1,0 +1,20 @@
+[
+  {
+    "class": "2026-05-30-Class06",
+    "source": "2026-05-30-Class06/20260530-1-下午.aep",
+    "repo_path": "classes/2026-05-30-Class06/aep/20260530-1-下午.aep",
+    "bytes": 642267,
+    "sha256": "75a1c3fe15fdb74e3c67ee38376cbaa91a13312a210f46b252ca0e86cc96b33e",
+    "kind": "practice-process",
+    "dependency_status": "not_embedded-audit-required"
+  },
+  {
+    "class": "2026-05-30-Class06",
+    "source": "2026-05-30-Class06/20260530-4-上午.aep",
+    "repo_path": "classes/2026-05-30-Class06/aep/20260530-4-上午.aep",
+    "bytes": 636948,
+    "sha256": "916a33ff92c680c3c4bbeb3128784a171e3cfcb108a20fc97fc797b54221a237",
+    "kind": "practice-process",
+    "dependency_status": "not_embedded-audit-required"
+  }
+]

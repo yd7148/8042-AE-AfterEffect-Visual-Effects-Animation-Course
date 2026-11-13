@@ -1,0 +1,29 @@
+[
+  {
+    "class": "2026-04-25-Class02",
+    "source": "2026-04-25-Class02/2026-04-25-1.aep",
+    "repo_path": "classes/2026-04-25-Class02/aep/2026-04-25-1.aep",
+    "bytes": 184861,
+    "sha256": "21ef4d070d2aeeed6d71e80b0c363ee867e7adbe7c0d391b6eae75e03ec0f36a",
+    "kind": "practice-process",
+    "dependency_status": "not_embedded-audit-required"
+  },
+  {
+    "class": "2026-04-25-Class02",
+    "source": "2026-04-25-Class02/2026-04-25-2.aep",
+    "repo_path": "classes/2026-04-25-Class02/aep/2026-04-25-2.aep",
+    "bytes": 87199,
+    "sha256": "c0475272bf6348dd45da94c250a7d351916a4386808f2eec502d1e86a5ec3034",
+    "kind": "practice-process",
+    "dependency_status": "not_embedded-audit-required"
+  },
+  {
+    "class": "2026-04-25-Class02",
+    "source": "2026-04-25-Class02/0425-text graphy Motion.aep",
+    "repo_path": "classes/2026-04-25-Class02/aep/0425-text graphy Motion.aep",
+    "bytes": 224873,
+    "sha256": "8ff12f81d07690a06df8a379abf04a6b105a9d64beb7389da98d3d7a00ff33b2",
+    "kind": "reference-or-final",
+    "dependency_status": "not_embedded-audit-required"
+  }
+]

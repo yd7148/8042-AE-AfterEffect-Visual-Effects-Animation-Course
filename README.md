@@ -2,6 +2,8 @@
 
 這是一份以課堂日期為主軸整理的免費、非營利學習紀錄，包含個人筆記、課程索引、完整上課錄影與老師提供的參考影片連結。
 
+整理者：`4pins`。為尊重低調授課的意願，本專案不公開教師姓名／稱呼與開課單位。
+
 > 課程期間：2026-04-18 ～ 2026-06-13  
 > YouTube 播放清單：[8042 AE圖像特效動畫基礎A班第01期](https://www.youtube.com/playlist?list=PLM0Fy4A8jLFA)
 
@@ -38,13 +40,16 @@ flowchart LR
 3. 需要完整操作過程時，再開啟對應的 YouTube 錄影。
 4. 老師參考影片與外部素材會保留原始來源連結。
 
+每堂頁面另附原始增量筆記、圖片來源對照 JSON，以及經篩選的練習 AEP。原始八份累積文件共有 174 個圖片副本；去除跨堂重複後，逐堂內容實際使用 27 張圖片。
+
 ## 授權與聲明
 
 - 本 Repo 的原創文字、圖表與整理程式採 [MIT License](LICENSE)。
 - 課程錄影與第三方教材、商標、圖片、影片及外掛仍各自受原權利人條款約束。
 - 本專案為無償、非營利的學習紀錄。詳見 [NOTICE.md](NOTICE.md)。
+- AEP、外掛與第三方素材的公開範圍詳見 [素材與授權政策](docs/ASSET_AND_LICENSE_POLICY.md)。
+- 發現錯誤或連結失效，歡迎使用 GitHub Issues 回報。
 
 ## 專案狀態
 
 請參考 [docs/TODO.md](docs/TODO.md) 與 [docs/PROJECT_STATUS.md](docs/PROJECT_STATUS.md)。
-

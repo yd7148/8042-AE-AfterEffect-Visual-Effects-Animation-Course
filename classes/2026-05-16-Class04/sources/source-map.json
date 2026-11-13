@@ -1,0 +1,30 @@
+{
+  "class": "2026-05-16-Class04",
+  "source_markdown": "Markdown/2026-05-16-Class04/2026-05-16-Class04.md",
+  "source_word": "2026-05-16-Class04/2026-05-16-Class04.docx",
+  "source_line_start": 165,
+  "source_line_end": 201,
+  "images": [
+    {
+      "source_word": "2026-05-16-Class04/2026-05-16-Class04.docx",
+      "source_word_paragraph": 169,
+      "source_markdown": "Markdown/2026-05-16-Class04/2026-05-16-Class04.md",
+      "source_line": 193,
+      "source_image": "Markdown/2026-05-16-Class04/2026-05-16-Class04_assets/image21.png",
+      "repo_image": "classes/2026-05-16-Class04/assets/source-image21.png",
+      "sha256": "f33feab7d20b443f5ae88d4276abed36446d422f30b92f8f1fb8a39ee4b65288",
+      "bytes": 36531
+    },
+    {
+      "source_word": "2026-05-16-Class04/2026-05-16-Class04.docx",
+      "source_word_paragraph": 171,
+      "source_markdown": "Markdown/2026-05-16-Class04/2026-05-16-Class04.md",
+      "source_line": 195,
+      "source_image": "Markdown/2026-05-16-Class04/2026-05-16-Class04_assets/image22.png",
+      "repo_image": "classes/2026-05-16-Class04/assets/source-image22.png",
+      "sha256": "031d50bafb259df3a07801d79ba91e1c12d90f66399f76d3a0621d8ee4db64e3",
+      "bytes": 50096
+    }
+  ],
+  "redactions": []
+}

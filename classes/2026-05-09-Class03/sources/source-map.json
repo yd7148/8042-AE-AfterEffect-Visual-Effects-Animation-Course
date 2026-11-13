@@ -1,0 +1,40 @@
+{
+  "class": "2026-05-09-Class03",
+  "source_markdown": "Markdown/2026-05-09-Class03/2026-05-09-Class03.md",
+  "source_word": "2026-05-09-Class03/2026-05-09-Class03.docx",
+  "source_line_start": 68,
+  "source_line_end": 111,
+  "images": [
+    {
+      "source_word": "2026-05-09-Class03/2026-05-09-Class03.docx",
+      "source_word_paragraph": 51,
+      "source_markdown": "Markdown/2026-05-09-Class03/2026-05-09-Class03.md",
+      "source_line": 102,
+      "source_image": "Markdown/2026-05-09-Class03/2026-05-09-Class03_assets/image12.png",
+      "repo_image": "classes/2026-05-09-Class03/assets/source-image12.png",
+      "sha256": "4ffc3bc8023fa427cd50af6e1bf4b9d1d1af92783618ccd3105661b99ac9af2b",
+      "bytes": 232700
+    },
+    {
+      "source_word": "2026-05-09-Class03/2026-05-09-Class03.docx",
+      "source_word_paragraph": 52,
+      "source_markdown": "Markdown/2026-05-09-Class03/2026-05-09-Class03.md",
+      "source_line": 104,
+      "source_image": "Markdown/2026-05-09-Class03/2026-05-09-Class03_assets/image13.png",
+      "repo_image": "classes/2026-05-09-Class03/assets/source-image13.png",
+      "sha256": "d48c6ddb1ddf5f51d30f7f341829e35bfa52a6aaad1315ffdbaff95ae6a93c19",
+      "bytes": 1280298
+    },
+    {
+      "source_word": "2026-05-09-Class03/2026-05-09-Class03.docx",
+      "source_word_paragraph": 68,
+      "source_markdown": "Markdown/2026-05-09-Class03/2026-05-09-Class03.md",
+      "source_line": 108,
+      "source_image": "Markdown/2026-05-09-Class03/2026-05-09-Class03_assets/image14.png",
+      "repo_image": "classes/2026-05-09-Class03/assets/source-image14.png",
+      "sha256": "f6327286e01f3683e7ec8840808553de24d5c0d5597eb2e886cd94d633fc318a",
+      "bytes": 341561
+    }
+  ],
+  "redactions": []
+}

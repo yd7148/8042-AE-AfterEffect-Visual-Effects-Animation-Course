@@ -1,0 +1,29 @@
+[
+  {
+    "class": "2026-05-23-Class05",
+    "source": "2026-05-23-Class05/20260523-1.aep",
+    "repo_path": "classes/2026-05-23-Class05/aep/20260523-1.aep",
+    "bytes": 455573,
+    "sha256": "a6b8560c505f30863288aec268c6998b755cb4c9d52248ce2dbb50ccc6776943",
+    "kind": "practice-process",
+    "dependency_status": "not_embedded-audit-required"
+  },
+  {
+    "class": "2026-05-23-Class05",
+    "source": "2026-05-23-Class05/20260523-2-下午.aep",
+    "repo_path": "classes/2026-05-23-Class05/aep/20260523-2-下午.aep",
+    "bytes": 797247,
+    "sha256": "77f821347de3bdf3c1691a778cdd06be829d7412bd1e2febf5c39ecfe7e1c271",
+    "kind": "practice-process",
+    "dependency_status": "not_embedded-audit-required"
+  },
+  {
+    "class": "2026-05-23-Class05",
+    "source": "2026-05-23-Class05/20260523-3-下午.aep",
+    "repo_path": "classes/2026-05-23-Class05/aep/20260523-3-下午.aep",
+    "bytes": 396885,
+    "sha256": "9b93d56b366e852a4608c265f6ec011ea044c3555f418bfff108b027b2820afa",
+    "kind": "practice-process",
+    "dependency_status": "not_embedded-audit-required"
+  }
+]

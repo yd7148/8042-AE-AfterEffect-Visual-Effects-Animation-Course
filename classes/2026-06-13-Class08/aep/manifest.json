@@ -1,0 +1,47 @@
+[
+  {
+    "class": "2026-06-13-Class08",
+    "source": "2026-06-13-Class08/2026-06-13-1-上午.aep",
+    "repo_path": "classes/2026-06-13-Class08/aep/2026-06-13-1-上午.aep",
+    "bytes": 221629,
+    "sha256": "a49a0cd3783d7404cc54b786e59e740699e205749f5452316e92b72abee9c692",
+    "kind": "practice-process",
+    "dependency_status": "not_embedded-audit-required"
+  },
+  {
+    "class": "2026-06-13-Class08",
+    "source": "2026-06-13-Class08/2026-06-13-2-下午.aep",
+    "repo_path": "classes/2026-06-13-Class08/aep/2026-06-13-2-下午.aep",
+    "bytes": 313475,
+    "sha256": "168da0edabe28d9944a80708414726d4eed852955aa3e115b3ed944ed06b0789",
+    "kind": "practice-process",
+    "dependency_status": "not_embedded-audit-required"
+  },
+  {
+    "class": "2026-06-13-Class08",
+    "source": "2026-06-13-Class08/01-物理彈跳節奏/物理節奏彈跳碰撞.aep",
+    "repo_path": "classes/2026-06-13-Class08/aep/物理節奏彈跳碰撞.aep",
+    "bytes": 86731,
+    "sha256": "6b1142228ab5cd389905d08a29c89dbb88d0fdeb0c753b915c3da1284a1a783b",
+    "kind": "reference-or-final",
+    "dependency_status": "not_embedded-audit-required"
+  },
+  {
+    "class": "2026-06-13-Class08",
+    "source": "2026-06-13-Class08/Fashion Slideshow/Alpha matte.aep",
+    "repo_path": "classes/2026-06-13-Class08/aep/Alpha matte.aep",
+    "bytes": 504405,
+    "sha256": "e924e189701a7ad19449ddbb137d072d5994af9bfc9aec2d47329104d655d878",
+    "kind": "reference-or-final",
+    "dependency_status": "not_embedded-audit-required"
+  },
+  {
+    "class": "2026-06-13-Class08",
+    "source": "2026-06-13-Class08/GLOW LIGHT/GLOW LIGHT.aep",
+    "repo_path": "classes/2026-06-13-Class08/aep/GLOW LIGHT.aep",
+    "bytes": 310103,
+    "sha256": "63429af503d9678a9e9131a9fad5474f4d900896af9fa4646f537be80a5c9a3e",
+    "kind": "reference-or-final",
+    "dependency_status": "not_embedded-audit-required"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "class": "2026-05-16-Class04",
+    "source": "2026-05-16-Class04/01-教材-0516/0516.aep",
+    "repo_path": "classes/2026-05-16-Class04/aep/0516.aep",
+    "bytes": 643143,
+    "sha256": "d9e51b3bf914cd8e9e9bea39ed014a359fb863f14c408d005f08cd9a57d7a055",
+    "kind": "reference-or-final",
+    "dependency_status": "not_embedded-audit-required"
+  },
+  {
+    "class": "2026-05-16-Class04",
+    "source": "2026-05-16-Class04/01-教材-0516/0516-2.aep",
+    "repo_path": "classes/2026-05-16-Class04/aep/0516-2.aep",
+    "bytes": 675579,
+    "sha256": "2fc35e8779c0ba6ef9489b1e6e0e0bb2c74a3736cc669d462fee53603d957fed",
+    "kind": "practice-process",
+    "dependency_status": "not_embedded-audit-required"
+  },
+  {
+    "class": "2026-05-16-Class04",
+    "source": "2026-05-16-Class04/01-教材-0516/2026-05-16-2.aep",
+    "repo_path": "classes/2026-05-16-Class04/aep/2026-05-16-2.aep",
+    "bytes": 665201,
+    "sha256": "fd241ed591e41ef819224f943f7435a8062cd5a8e46d03c791c562f29f1a1f7c",
+    "kind": "practice-process",
+    "dependency_status": "not_embedded-audit-required"
+  }
+]

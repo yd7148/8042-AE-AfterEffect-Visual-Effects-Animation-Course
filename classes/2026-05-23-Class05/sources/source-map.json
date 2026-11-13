@@ -1,0 +1,40 @@
+{
+  "class": "2026-05-23-Class05",
+  "source_markdown": "Markdown/2026-05-23-Class05/2026-05-23-Class05.md",
+  "source_word": "2026-05-23-Class05/2026-05-23-Class05.docx",
+  "source_line_start": 202,
+  "source_line_end": 224,
+  "images": [
+    {
+      "source_word": "2026-05-23-Class05/2026-05-23-Class05.docx",
+      "source_word_paragraph": 195,
+      "source_markdown": "Markdown/2026-05-23-Class05/2026-05-23-Class05.md",
+      "source_line": 218,
+      "source_image": "Markdown/2026-05-23-Class05/2026-05-23-Class05_assets/image23.png",
+      "repo_image": "classes/2026-05-23-Class05/assets/source-image23.png",
+      "sha256": "ba0a37dc95fcf704e6f4aeba817d1160691ce09cec91bc70d44916b6d6cf5d70",
+      "bytes": 55283
+    },
+    {
+      "source_word": "2026-05-23-Class05/2026-05-23-Class05.docx",
+      "source_word_paragraph": 196,
+      "source_markdown": "Markdown/2026-05-23-Class05/2026-05-23-Class05.md",
+      "source_line": 220,
+      "source_image": "Markdown/2026-05-23-Class05/2026-05-23-Class05_assets/image24.png",
+      "repo_image": "classes/2026-05-23-Class05/assets/source-image24.png",
+      "sha256": "1d0202aff5d6202fcab62b91b9222fc25e3038a40fe954f4825e1818a1a8a8b7",
+      "bytes": 25172
+    },
+    {
+      "source_word": "2026-05-23-Class05/2026-05-23-Class05.docx",
+      "source_word_paragraph": 199,
+      "source_markdown": "Markdown/2026-05-23-Class05/2026-05-23-Class05.md",
+      "source_line": 222,
+      "source_image": "Markdown/2026-05-23-Class05/2026-05-23-Class05_assets/image25.png",
+      "repo_image": "classes/2026-05-23-Class05/assets/source-image25.png",
+      "sha256": "7193598983468f68aba33802c38bba4972204d1e0a31d1746c4629f61d4e48c3",
+      "bytes": 14718
+    }
+  ],
+  "redactions": []
+}

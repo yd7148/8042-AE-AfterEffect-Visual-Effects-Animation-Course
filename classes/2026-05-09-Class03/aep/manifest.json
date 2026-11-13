@@ -1,0 +1,38 @@
+[
+  {
+    "class": "2026-05-09-Class03",
+    "source": "2026-05-09-Class03/2026-05-09-class03-1.aep",
+    "repo_path": "classes/2026-05-09-Class03/aep/2026-05-09-class03-1.aep",
+    "bytes": 193729,
+    "sha256": "8c06b15d0457c0336d0f3f1dbf7aa0f5847ac0d9a5b4fe1c822e66c29ceca80b",
+    "kind": "practice-process",
+    "dependency_status": "not_embedded-audit-required"
+  },
+  {
+    "class": "2026-05-09-Class03",
+    "source": "2026-05-09-Class03/2026-05-09-class03-2.aep",
+    "repo_path": "classes/2026-05-09-Class03/aep/2026-05-09-class03-2.aep",
+    "bytes": 278483,
+    "sha256": "5199756a66d91aaa0597fafd0c56b129a50e058e87681a1369f6bd1b8b986a75",
+    "kind": "practice-process",
+    "dependency_status": "not_embedded-audit-required"
+  },
+  {
+    "class": "2026-05-09-Class03",
+    "source": "2026-05-09-Class03/2026-05-09-class03-3.aep",
+    "repo_path": "classes/2026-05-09-Class03/aep/2026-05-09-class03-3.aep",
+    "bytes": 304559,
+    "sha256": "70c76f9f6618808afd445249d159f87caee562d2e9b31199f58e871150dfef23",
+    "kind": "practice-process",
+    "dependency_status": "not_embedded-audit-required"
+  },
+  {
+    "class": "2026-05-09-Class03",
+    "source": "2026-05-09-Class03/2026-05-09-class03-4.aep",
+    "repo_path": "classes/2026-05-09-Class03/aep/2026-05-09-class03-4.aep",
+    "bytes": 101773,
+    "sha256": "332b432df90e7b39d40b11affcf41d3879c17cc89f0f6e7ed8f461b72410692a",
+    "kind": "practice-process",
+    "dependency_status": "not_embedded-audit-required"
+  }
+]

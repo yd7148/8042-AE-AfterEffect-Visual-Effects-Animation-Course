@@ -1,0 +1,70 @@
+{
+  "class": "2026-04-25-Class02",
+  "source_markdown": "Markdown/2026-04-25-Class02/2026-04-25-Class2.md",
+  "source_word": "2026-04-25-Class02/2026-04-25-Class2.docx",
+  "source_line_start": 66,
+  "source_line_end": 118,
+  "images": [
+    {
+      "source_word": "2026-04-25-Class02/2026-04-25-Class2.docx",
+      "source_word_paragraph": 42,
+      "source_markdown": "Markdown/2026-04-25-Class02/2026-04-25-Class2.md",
+      "source_line": 78,
+      "source_image": "Markdown/2026-04-25-Class02/2026-04-25-Class2_assets/image12.png",
+      "repo_image": "classes/2026-04-25-Class02/assets/source-image12.png",
+      "sha256": "e4a0372479be7abb42ffdd7915b91f43fccafe37a36c0ada8d5b50620853a605",
+      "bytes": 31433
+    },
+    {
+      "source_word": "2026-04-25-Class02/2026-04-25-Class2.docx",
+      "source_word_paragraph": 55,
+      "source_markdown": "Markdown/2026-04-25-Class02/2026-04-25-Class2.md",
+      "source_line": 90,
+      "source_image": "Markdown/2026-04-25-Class02/2026-04-25-Class2_assets/image13.png",
+      "repo_image": "classes/2026-04-25-Class02/assets/source-image13.png",
+      "sha256": "2a4ed22754785d979186da186204285335fff66c8fc39f5b12a89dcb0b04a988",
+      "bytes": 44574
+    },
+    {
+      "source_word": "2026-04-25-Class02/2026-04-25-Class2.docx",
+      "source_word_paragraph": 59,
+      "source_markdown": "Markdown/2026-04-25-Class02/2026-04-25-Class2.md",
+      "source_line": 96,
+      "source_image": "Markdown/2026-04-25-Class02/2026-04-25-Class2_assets/image14.gif",
+      "repo_image": "classes/2026-04-25-Class02/assets/source-image14.gif",
+      "sha256": "ec5843cc94746c0ddb7a8f81c38037dec1bbf0881f4c3eabf67721862458cd8f",
+      "bytes": 398988
+    },
+    {
+      "source_word": "2026-04-25-Class02/2026-04-25-Class2.docx",
+      "source_word_paragraph": 70,
+      "source_markdown": "Markdown/2026-04-25-Class02/2026-04-25-Class2.md",
+      "source_line": 112,
+      "source_image": "Markdown/2026-04-25-Class02/2026-04-25-Class2_assets/image15.png",
+      "repo_image": "classes/2026-04-25-Class02/assets/source-image15.png",
+      "sha256": "f6edd7fefe79d1298078b75b1f32a79414595d03dba5bed5ca99ed3170a3074e",
+      "bytes": 43270
+    },
+    {
+      "source_word": "2026-04-25-Class02/2026-04-25-Class2.docx",
+      "source_word_paragraph": 72,
+      "source_markdown": "Markdown/2026-04-25-Class02/2026-04-25-Class2.md",
+      "source_line": 114,
+      "source_image": "Markdown/2026-04-25-Class02/2026-04-25-Class2_assets/image16.png",
+      "repo_image": "classes/2026-04-25-Class02/assets/source-image16.png",
+      "sha256": "97dd440bbfa433bfdef2434c692f45c8429a026feffe01995ae0cea72b14f9c8",
+      "bytes": 34085
+    },
+    {
+      "source_word": "2026-04-25-Class02/2026-04-25-Class2.docx",
+      "source_word_paragraph": 74,
+      "source_markdown": "Markdown/2026-04-25-Class02/2026-04-25-Class2.md",
+      "source_line": 116,
+      "source_image": "Markdown/2026-04-25-Class02/2026-04-25-Class2_assets/image17.png",
+      "repo_image": "classes/2026-04-25-Class02/assets/source-image17.png",
+      "sha256": "e43295bffb0891ad0876cc8dceb248498de99e4b7719ee94c9c163d20d182071",
+      "bytes": 48603
+    }
+  ],
+  "redactions": []
+}

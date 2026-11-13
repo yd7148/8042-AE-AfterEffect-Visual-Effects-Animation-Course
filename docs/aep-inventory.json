@@ -1,0 +1,204 @@
+{
+  "count": 22,
+  "bytes": 9256090,
+  "files": [
+    {
+      "class": "2026-04-25-Class02",
+      "source": "2026-04-25-Class02/2026-04-25-1.aep",
+      "repo_path": "classes/2026-04-25-Class02/aep/2026-04-25-1.aep",
+      "bytes": 184861,
+      "sha256": "21ef4d070d2aeeed6d71e80b0c363ee867e7adbe7c0d391b6eae75e03ec0f36a",
+      "kind": "practice-process",
+      "dependency_status": "not_embedded-audit-required"
+    },
+    {
+      "class": "2026-04-25-Class02",
+      "source": "2026-04-25-Class02/2026-04-25-2.aep",
+      "repo_path": "classes/2026-04-25-Class02/aep/2026-04-25-2.aep",
+      "bytes": 87199,
+      "sha256": "c0475272bf6348dd45da94c250a7d351916a4386808f2eec502d1e86a5ec3034",
+      "kind": "practice-process",
+      "dependency_status": "not_embedded-audit-required"
+    },
+    {
+      "class": "2026-04-25-Class02",
+      "source": "2026-04-25-Class02/0425-text graphy Motion.aep",
+      "repo_path": "classes/2026-04-25-Class02/aep/0425-text graphy Motion.aep",
+      "bytes": 224873,
+      "sha256": "8ff12f81d07690a06df8a379abf04a6b105a9d64beb7389da98d3d7a00ff33b2",
+      "kind": "reference-or-final",
+      "dependency_status": "not_embedded-audit-required"
+    },
+    {
+      "class": "2026-05-09-Class03",
+      "source": "2026-05-09-Class03/2026-05-09-class03-1.aep",
+      "repo_path": "classes/2026-05-09-Class03/aep/2026-05-09-class03-1.aep",
+      "bytes": 193729,
+      "sha256": "8c06b15d0457c0336d0f3f1dbf7aa0f5847ac0d9a5b4fe1c822e66c29ceca80b",
+      "kind": "practice-process",
+      "dependency_status": "not_embedded-audit-required"
+    },
+    {
+      "class": "2026-05-09-Class03",
+      "source": "2026-05-09-Class03/2026-05-09-class03-2.aep",
+      "repo_path": "classes/2026-05-09-Class03/aep/2026-05-09-class03-2.aep",
+      "bytes": 278483,
+      "sha256": "5199756a66d91aaa0597fafd0c56b129a50e058e87681a1369f6bd1b8b986a75",
+      "kind": "practice-process",
+      "dependency_status": "not_embedded-audit-required"
+    },
+    {
+      "class": "2026-05-09-Class03",
+      "source": "2026-05-09-Class03/2026-05-09-class03-3.aep",
+      "repo_path": "classes/2026-05-09-Class03/aep/2026-05-09-class03-3.aep",
+      "bytes": 304559,
+      "sha256": "70c76f9f6618808afd445249d159f87caee562d2e9b31199f58e871150dfef23",
+      "kind": "practice-process",
+      "dependency_status": "not_embedded-audit-required"
+    },
+    {
+      "class": "2026-05-09-Class03",
+      "source": "2026-05-09-Class03/2026-05-09-class03-4.aep",
+      "repo_path": "classes/2026-05-09-Class03/aep/2026-05-09-class03-4.aep",
+      "bytes": 101773,
+      "sha256": "332b432df90e7b39d40b11affcf41d3879c17cc89f0f6e7ed8f461b72410692a",
+      "kind": "practice-process",
+      "dependency_status": "not_embedded-audit-required"
+    },
+    {
+      "class": "2026-05-16-Class04",
+      "source": "2026-05-16-Class04/01-教材-0516/0516.aep",
+      "repo_path": "classes/2026-05-16-Class04/aep/0516.aep",
+      "bytes": 643143,
+      "sha256": "d9e51b3bf914cd8e9e9bea39ed014a359fb863f14c408d005f08cd9a57d7a055",
+      "kind": "reference-or-final",
+      "dependency_status": "not_embedded-audit-required"
+    },
+    {
+      "class": "2026-05-16-Class04",
+      "source": "2026-05-16-Class04/01-教材-0516/0516-2.aep",
+      "repo_path": "classes/2026-05-16-Class04/aep/0516-2.aep",
+      "bytes": 675579,
+      "sha256": "2fc35e8779c0ba6ef9489b1e6e0e0bb2c74a3736cc669d462fee53603d957fed",
+      "kind": "practice-process",
+      "dependency_status": "not_embedded-audit-required"
+    },
+    {
+      "class": "2026-05-16-Class04",
+      "source": "2026-05-16-Class04/01-教材-0516/2026-05-16-2.aep",
+      "repo_path": "classes/2026-05-16-Class04/aep/2026-05-16-2.aep",
+      "bytes": 665201,
+      "sha256": "fd241ed591e41ef819224f943f7435a8062cd5a8e46d03c791c562f29f1a1f7c",
+      "kind": "practice-process",
+      "dependency_status": "not_embedded-audit-required"
+    },
+    {
+      "class": "2026-05-23-Class05",
+      "source": "2026-05-23-Class05/20260523-1.aep",
+      "repo_path": "classes/2026-05-23-Class05/aep/20260523-1.aep",
+      "bytes": 455573,
+      "sha256": "a6b8560c505f30863288aec268c6998b755cb4c9d52248ce2dbb50ccc6776943",
+      "kind": "practice-process",
+      "dependency_status": "not_embedded-audit-required"
+    },
+    {
+      "class": "2026-05-23-Class05",
+      "source": "2026-05-23-Class05/20260523-2-下午.aep",
+      "repo_path": "classes/2026-05-23-Class05/aep/20260523-2-下午.aep",
+      "bytes": 797247,
+      "sha256": "77f821347de3bdf3c1691a778cdd06be829d7412bd1e2febf5c39ecfe7e1c271",
+      "kind": "practice-process",
+      "dependency_status": "not_embedded-audit-required"
+    },
+    {
+      "class": "2026-05-23-Class05",
+      "source": "2026-05-23-Class05/20260523-3-下午.aep",
+      "repo_path": "classes/2026-05-23-Class05/aep/20260523-3-下午.aep",
+      "bytes": 396885,
+      "sha256": "9b93d56b366e852a4608c265f6ec011ea044c3555f418bfff108b027b2820afa",
+      "kind": "practice-process",
+      "dependency_status": "not_embedded-audit-required"
+    },
+    {
+      "class": "2026-05-30-Class06",
+      "source": "2026-05-30-Class06/20260530-1-下午.aep",
+      "repo_path": "classes/2026-05-30-Class06/aep/20260530-1-下午.aep",
+      "bytes": 642267,
+      "sha256": "75a1c3fe15fdb74e3c67ee38376cbaa91a13312a210f46b252ca0e86cc96b33e",
+      "kind": "practice-process",
+      "dependency_status": "not_embedded-audit-required"
+    },
+    {
+      "class": "2026-05-30-Class06",
+      "source": "2026-05-30-Class06/20260530-4-上午.aep",
+      "repo_path": "classes/2026-05-30-Class06/aep/20260530-4-上午.aep",
+      "bytes": 636948,
+      "sha256": "916a33ff92c680c3c4bbeb3128784a171e3cfcb108a20fc97fc797b54221a237",
+      "kind": "practice-process",
+      "dependency_status": "not_embedded-audit-required"
+    },
+    {
+      "class": "2026-06-06-Class07",
+      "source": "2026-06-06-Class07/0606_adidas_glossy_.aep",
+      "repo_path": "classes/2026-06-06-Class07/aep/0606_adidas_glossy_.aep",
+      "bytes": 1111228,
+      "sha256": "32d34148f9a78f48e15c53ddea3889ad12b959331998e9ded1a30a7727faf976",
+      "kind": "reference-or-final",
+      "dependency_status": "not_embedded-audit-required"
+    },
+    {
+      "class": "2026-06-06-Class07",
+      "source": "2026-06-06-Class07/20260606-2-下午.aep",
+      "repo_path": "classes/2026-06-06-Class07/aep/20260606-2-下午.aep",
+      "bytes": 420199,
+      "sha256": "bf078e1bd3c7f0e7d5e54ab94ce1c796d161612b24ea0a94d74d7e96eb60658a",
+      "kind": "practice-process",
+      "dependency_status": "not_embedded-audit-required"
+    },
+    {
+      "class": "2026-06-13-Class08",
+      "source": "2026-06-13-Class08/2026-06-13-1-上午.aep",
+      "repo_path": "classes/2026-06-13-Class08/aep/2026-06-13-1-上午.aep",
+      "bytes": 221629,
+      "sha256": "a49a0cd3783d7404cc54b786e59e740699e205749f5452316e92b72abee9c692",
+      "kind": "practice-process",
+      "dependency_status": "not_embedded-audit-required"
+    },
+    {
+      "class": "2026-06-13-Class08",
+      "source": "2026-06-13-Class08/2026-06-13-2-下午.aep",
+      "repo_path": "classes/2026-06-13-Class08/aep/2026-06-13-2-下午.aep",
+      "bytes": 313475,
+      "sha256": "168da0edabe28d9944a80708414726d4eed852955aa3e115b3ed944ed06b0789",
+      "kind": "practice-process",
+      "dependency_status": "not_embedded-audit-required"
+    },
+    {
+      "class": "2026-06-13-Class08",
+      "source": "2026-06-13-Class08/01-物理彈跳節奏/物理節奏彈跳碰撞.aep",
+      "repo_path": "classes/2026-06-13-Class08/aep/物理節奏彈跳碰撞.aep",
+      "bytes": 86731,
+      "sha256": "6b1142228ab5cd389905d08a29c89dbb88d0fdeb0c753b915c3da1284a1a783b",
+      "kind": "reference-or-final",
+      "dependency_status": "not_embedded-audit-required"
+    },
+    {
+      "class": "2026-06-13-Class08",
+      "source": "2026-06-13-Class08/Fashion Slideshow/Alpha matte.aep",
+      "repo_path": "classes/2026-06-13-Class08/aep/Alpha matte.aep",
+      "bytes": 504405,
+      "sha256": "e924e189701a7ad19449ddbb137d072d5994af9bfc9aec2d47329104d655d878",
+      "kind": "reference-or-final",
+      "dependency_status": "not_embedded-audit-required"
+    },
+    {
+      "class": "2026-06-13-Class08",
+      "source": "2026-06-13-Class08/GLOW LIGHT/GLOW LIGHT.aep",
+      "repo_path": "classes/2026-06-13-Class08/aep/GLOW LIGHT.aep",
+      "bytes": 310103,
+      "sha256": "63429af503d9678a9e9131a9fad5474f4d900896af9fa4646f537be80a5c9a3e",
+      "kind": "reference-or-final",
+      "dependency_status": "not_embedded-audit-required"
+    }
+  ]
+}
