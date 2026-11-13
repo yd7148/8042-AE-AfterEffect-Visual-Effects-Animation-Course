@@ -8,6 +8,9 @@ const routes = {
   versionA: await page.getByRole("heading", { name: /版本 A/ }).count(),
   versionB: await page.getByRole("heading", { name: /版本 B/ }).count(),
   versionC: await page.getByRole("heading", { name: /版本 C/ }).count(),
+  versionD: await page.getByRole("heading", { name: /版本 D/ }).count(),
+  versionE: await page.getByRole("heading", { name: /版本 E/ }).count(),
+  versionF: await page.getByRole("heading", { name: /版本 F/ }).count(),
   mermaidTargets: await page.locator(".js-render-target, pre.mermaid, [data-snippet-clipboard-copy-content*='flowchart']").count(),
 }
 

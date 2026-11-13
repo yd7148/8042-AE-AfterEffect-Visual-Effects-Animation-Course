@@ -22,7 +22,7 @@
 
 ## 學習路線
 
-目前正在比較三種較大版面的學習路線圖，請先查看 [直式、雙欄蛇形、四階段三個候選版本](docs/LEARNING_ROUTE_OPTIONS.md)。選定後再取代下方原始橫式版本。
+目前正在比較六種版面，包含三個新的單畫面緊湊版本，請查看 [學習路線圖候選版本 A～F](docs/LEARNING_ROUTE_OPTIONS.md)。選定後再取代下方原始橫式版本。
 
 ```mermaid
 flowchart LR
