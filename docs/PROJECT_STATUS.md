@@ -20,6 +20,7 @@ flowchart LR
 - 22 份 AEP 共 9,256,090 bytes，保留練習過程，排除 Auto-Save、AME 暫存、影片與安裝程式。
 - 本機驗證：23 份 Markdown、95 個檔案、27 個圖片引用、8 份來源 manifest，0 errors／0 warnings。
 - `skills/ae-course-publisher` 已通過 `quick_validate.py`。
+- 首頁學習路線已選定 F 版 `2 × 4` 配對階梯；其餘 A～E 版保留為設計紀錄。
 
 ## 公開端驗證
 

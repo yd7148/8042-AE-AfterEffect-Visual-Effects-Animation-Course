@@ -17,7 +17,7 @@
 - [x] 封裝並驗證可重複執行的 Skill／Agent workflow
 - [ ] GitHub 已辨識 Mermaid render target；受本機瀏覽器 DNS／動態渲染限制，尚未取得最終 SVG 畫面證據
 - [ ] 在 After Effects 實際開啟每份 AEP，收集缺字型／素材／外掛報告
-- [ ] 從 `docs/LEARNING_ROUTE_OPTIONS.md` 選定 A、B 或 C 版學習路線，取代首頁原始橫式圖
+- [x] 選定 F 版 `2 × 4` 配對階梯，取代首頁原始橫式學習路線圖
 
 ## 已採用的公開設定
 

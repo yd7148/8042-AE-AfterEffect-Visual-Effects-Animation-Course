@@ -22,17 +22,29 @@
 
 ## 學習路線
 
-目前正在比較六種版面，包含三個新的單畫面緊湊版本，請查看 [學習路線圖候選版本 A～F](docs/LEARNING_ROUTE_OPTIONS.md)。選定後再取代下方原始橫式版本。
+採用 F 版 `2 × 4` 配對階梯，讓圖表接近方形，在手機與桌面都能保有可讀尺寸。其他設計保留於 [學習路線圖候選版本 A～F](docs/LEARNING_ROUTE_OPTIONS.md)。
 
 ```mermaid
-flowchart LR
-    C1[Class01<br/>AE 基礎] --> C2[Class02<br/>文字動畫]
-    C2 --> C3[Class03<br/>轉場效果]
-    C3 --> C4[Class04<br/>泡泡動態背景]
-    C4 --> C5[Class05<br/>3D Logo / Saber]
-    C5 --> C6[Class06<br/>Logo 反射光澤]
-    C6 --> C7[Class07<br/>商品展示 / 表達式]
-    C7 --> C8[Class08<br/>MG 動畫 / Krita AI]
+flowchart TB
+    subgraph FROW1[操作基礎]
+        direction LR
+        F1[01｜AE 基礎] --> F2[02｜文字動畫]
+    end
+    subgraph FROW2[動態設計]
+        direction RL
+        F3[03｜轉場效果] --> F4[04｜泡泡背景]
+    end
+    subgraph FROW3[Logo 特效]
+        direction LR
+        F5[05｜3D Logo / Saber] --> F6[06｜反射光澤]
+    end
+    subgraph FROW4[整合延伸]
+        direction RL
+        F7[07｜表達式] --> F8[08｜MG / Krita AI]
+    end
+    F2 --> F3
+    F4 --> F5
+    F6 --> F7
 ```
 
 ## 使用方式

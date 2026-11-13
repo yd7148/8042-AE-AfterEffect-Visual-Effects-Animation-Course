@@ -14,6 +14,14 @@ const routes = {
   mermaidTargets: await page.locator(".js-render-target, pre.mermaid, [data-snippet-clipboard-copy-content*='flowchart']").count(),
 }
 
+await page.goto(base)
+await page.waitForLoadState("domcontentloaded")
+await page.waitForTimeout(1500)
+const selected = {
+  fDescription: await page.getByText(/採用 F 版.*2 × 4.*配對階梯/).count(),
+  routeTarget: await page.locator(".js-render-target, pre.mermaid, [data-snippet-clipboard-copy-content*='FROW1']").count(),
+}
+
 await page.goto(`${base}/blob/main/skills/ae-course-repo-sync/SKILL.md`)
 await page.waitForLoadState("domcontentloaded")
 const skill = {
@@ -22,4 +30,4 @@ const skill = {
   boundaries: await page.getByRole("heading", { name: "Boundaries", exact: true }).count(),
 }
 
-return { routes, skill, finalUrl: page.url() }
+return { routes, selected, skill, finalUrl: page.url() }
