@@ -1,0 +1,6 @@
+interface:
+  display_name: "AE Course Repo Sync"
+  short_description: "Validate and publish AE course repository updates"
+  default_prompt: "Use $ae-course-repo-sync to validate and push the current AE course repository changes."
+policy:
+  allow_implicit_invocation: true

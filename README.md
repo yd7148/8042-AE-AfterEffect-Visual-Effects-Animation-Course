@@ -22,6 +22,8 @@
 
 ## 學習路線
 
+目前正在比較三種較大版面的學習路線圖，請先查看 [直式、雙欄蛇形、四階段三個候選版本](docs/LEARNING_ROUTE_OPTIONS.md)。選定後再取代下方原始橫式版本。
+
 ```mermaid
 flowchart LR
     C1[Class01<br/>AE 基礎] --> C2[Class02<br/>文字動畫]
